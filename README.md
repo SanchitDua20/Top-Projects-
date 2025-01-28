@@ -1,5 +1,7 @@
 Amazon Sales Analysis and Dashboard Project
 
+For File (download it from Link Given Below):-
+https://docs.google.com/spreadsheets/d/196thiqZEkx4ojFsvJCZ3MK1NZCbscRBl/edit?usp=drive_link&ouid=115554774703231289341&rtpof=true&sd=true
 
 Overview
 This project analyzes Amazon sales data from the last 8 years and presents the findings in an interactive Excel-based dashboard. The dataset consists of 1 million rows with key sales metrics such as revenue, profit, units sold, and cost data, aggregated and visualized to identify trends and provide actionable insights.
