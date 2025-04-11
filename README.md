@@ -1,11 +1,63 @@
-# 👋 Welcome to My Data Analyst Portfolio
+# 📊 Customer Acquisition Financial Assessment
 
-Hi there! I'm glad you're here. This repository showcases my journey and work as an aspiring Data Analyst, including projects that cover data cleaning, analysis, visualization, and business insights.
+Welcome! This project presents a financial analysis and customer segmentation strategy for planning customer acquisition using key business metrics.
 
-📌 **Please refer to the respective branches** for individual portfolio projects and case studies. Each branch contains a dedicated project with its documentation, code, and visuals.
+---
 
-Feel free to explore, clone, or reach out if you have any feedback or collaboration ideas!
+## 🧠 Objective
 
-Thanks for stopping by!  
-— SANCHIT DUA 
+To evaluate the financial feasibility of acquiring new customers by:
+- Calculating Customer Lifetime Value (LTV) for different segments
+- Estimating acquisition costs and required marketing efforts
+- Comparing expected revenue versus investment
 
+---
+
+## 📁 Project Structure
+
+- `Data` – Contains core business inputs and calculated metrics including:
+  - Monthly churn, subscription fees, CAC
+  - Segment-wise LTV and expected revenue
+- `Segments` – Defines customer types and adjusts LTV accordingly:
+  - Premium, Standard, and Trial customers
+  - Includes formulas for bonus/penalty-based LTV adjustments
+- `Dashboard` – Visual summary of acquisition metrics (e.g., LTV, revenue, impressions)
+
+---
+
+## 💼 Key Insights
+
+- Segment-specific LTV allows better targeting and budgeting
+- Trial customers yield significantly lower adjusted LTV
+- Premium customers drive the highest returns with modest additional bonus costs
+- Ad budget planning is linked directly to required clicks and impressions
+
+---
+
+## 📊 Tools Used
+
+- Microsoft Excel (formulas, structure, dashboard visuals)
+- XLOOKUP and dynamic cell references for automation
+- Financial modeling techniques
+
+---
+
+## 🧭 How to Explore
+
+Please refer to the respective branches for individual portfolio projects.
+
+Each branch includes:
+- Dataset files
+- Assumptions and formulas
+- Summary dashboards
+- Business recommendations
+
+---
+
+## ✉️ Contact
+
+Feel free to connect with me on [LinkedIn](#) or reach out if you have feedback or ideas for collaboration!
+
+---
+
+Thanks for visiting!
